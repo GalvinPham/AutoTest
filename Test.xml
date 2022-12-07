@@ -1,9 +1,19 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Suite" verbose="1">
-    <test name="PhucTest">
+    <test name="test">
         <classes>
-            <class name="PhucTest.BaiTapTuan1"></class>
+            <class name="PhucTest.BaiTapTuan3">
+                <methods><include name="OpenTGDD" /></methods>
+            </class>
+            <class name="TestPacket.TestLoginAnKhang">
+                <methods><include name="login" /></methods>
+            </class>
         </classes>
+        <!--<classes>
+            <class name="PhucTest.BaiTapTuan1">
+            </class>
+        </classes>-->
+
     </test>
 </suite>

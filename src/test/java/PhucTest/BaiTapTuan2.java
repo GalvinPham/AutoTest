@@ -2,6 +2,7 @@ package PhucTest;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -51,6 +52,9 @@ public class BaiTapTuan2 {
         WebElement f = driver.findElement(By.xpath("//a[normalize-space()='MUA NGAY']"));
         driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
         f.click();
+
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("document.querySelector(\"body > section:nth-child(7) > div:nth-child(5) > div:nth-child(2) > div:nth-child(3) > div:nth-child(4) > div:nth-child(10) > section:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > i:nth-child(2)\").click()");
 
         WebElement g = driver.findElement(By.xpath("//button[contains(text(),'Đặt mua')]"));
         driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);

@@ -1,0 +1,25 @@
+2022-12-07 10:04:54.642 [main] INFO  PhucTest.BaiTapTuan3 - Start
+2022-12-07 10:04:57.247 [main] INFO  PhucTest.BaiTapTuan3 - Mở trang: Thegioididong.com - Điện thoại, Laptop, Phụ kiện, Đồng hồ chính hãng
+2022-12-07 10:04:57.247 [main] INFO  PhucTest.BaiTapTuan3 - --> Tìm phần khung search
+2022-12-07 10:04:57.261 [main] INFO  PhucTest.BaiTapTuan3 - --> Click vào khung search
+2022-12-07 10:04:57.303 [main] INFO  PhucTest.BaiTapTuan3 - --> Nhập từ khoá tìm kiếm: iphone
+2022-12-07 10:04:57.990 [main] INFO  PhucTest.BaiTapTuan3 - --> Click tìm kiếm
+2022-12-07 10:04:58.040 [main] INFO  PhucTest.BaiTapTuan3 - --> Lọc iPhone 14 (Plus, Pro, Pro Max)
+2022-12-07 10:04:58.821 [main] INFO  PhucTest.BaiTapTuan3 - --> Chọn IPhone 14 Pro Max 128GB iPhone 14 (Plus, Pro, Pro Max)
+2022-12-07 10:05:00.246 [main] INFO  PhucTest.BaiTapTuan3 - --> Chọn thanh toán qua VNPAY
+2022-12-07 10:05:00.246 [main] INFO  PhucTest.BaiTapTuan3 - --> Chọn mua ngay
+2022-12-07 10:05:02.563 [main] INFO  PhucTest.BaiTapTuan3 - ---> Chọn giới tính Nam
+2022-12-07 10:05:02.609 [main] INFO  PhucTest.BaiTapTuan3 - ---> Nhập tên
+2022-12-07 10:05:02.660 [main] INFO  PhucTest.BaiTapTuan3 - ---> Nhập số điện thoại
+2022-12-07 10:05:03.225 [main] INFO  PhucTest.BaiTapTuan3 - ---> Chọn tỉnh thành
+2022-12-07 10:05:03.815 [main] INFO  PhucTest.BaiTapTuan3 - ---> Chọn quận, huyện
+2022-12-07 10:05:05.885 [main] INFO  PhucTest.BaiTapTuan3 - ---> Chọn phường xã
+2022-12-07 10:05:05.979 [main] INFO  PhucTest.BaiTapTuan3 - ---> Nhập số nhà, tên đường
+2022-12-07 10:05:05.979 [main] INFO  PhucTest.BaiTapTuan3 - End
+2022-12-07 10:05:06.118 [main] INFO  TestPacket.TestLoginAnKhang - Start_Login_AnKhang
+2022-12-07 10:05:08.063 [main] INFO  TestPacket.TestLoginAnKhang - ---> Click lịch sử đơn hàng: 
+2022-12-07 10:05:09.255 [main] INFO  TestPacket.TestLoginAnKhang - ---> Nhập số điện thoại: 
+2022-12-07 10:05:09.327 [main] INFO  TestPacket.TestLoginAnKhang - ---> Click tiếp tục: 
+2022-12-07 10:05:09.372 [main] INFO  TestPacket.TestLoginAnKhang - ---> Nhập mã xác nhận: 
+2022-12-07 10:05:10.511 [main] INFO  TestPacket.TestLoginAnKhang - ---> Click tiếp tục: 
+2022-12-07 10:05:10.527 [main] INFO  TestPacket.TestLoginAnKhang - Start_Login_AnKhang
